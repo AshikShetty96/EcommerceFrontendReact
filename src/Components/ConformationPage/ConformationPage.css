@@ -1,0 +1,32 @@
+.conformation-page {
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+.conformation-page h1 {
+  font-size: 2.5em;
+  color: #4caf50;
+  margin-bottom: 20px;
+}
+
+.conformation-page p {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.conformation-page h2 {
+  font-size: 1.8em;
+  color: #ff5722;
+  margin-bottom: 20px;
+}
+
+.celebration {
+  font-size: 2em;
+  margin-top: 20px;
+}

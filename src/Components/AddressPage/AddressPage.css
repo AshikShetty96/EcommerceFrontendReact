@@ -1,0 +1,33 @@
+.address-page {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .address-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .address-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .address-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .submit-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  
